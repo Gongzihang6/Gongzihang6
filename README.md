@@ -2,11 +2,11 @@
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200"/>
   
   <h1>
-    Hey, I'm <a href="https://wcowin.work/VitePress/">Wcowin</a>!
+    Hey, I'm <a href="https://gongzihang6.github.io/">gzh</a>!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <p align="center">
-    <b>Student | Open-source Technology & Math Enthusiast | Coffee Lover | Poetry Lover | Badminton Player</b>
+    <b>Student | Open-source Technology & Math Enthusiast | Badminton Lover | Poetry Lover | Reader enthusiast</b>
   </p>
 </div>
 
@@ -14,7 +14,7 @@
 ## 🌱 About Me
 
 * A student :student:
-* Heavy coffee drinker ☕
+* Serious badminton enthusiast ☕
 * Love tossing technology/Math 💻
 * Read books;lover of poetry;like Haruki Murakami 📖
 * good at badminton :badminton:

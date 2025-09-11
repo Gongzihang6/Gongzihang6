@@ -1,3 +1,7 @@
+<p align="right">
+  <b>English</b> | <a href="README-zh-CN.md">简体中文</a>
+</p>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200"/>
   
@@ -6,18 +10,17 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <p align="center">
-    <b>Student | Open-source Technology & Math Enthusiast | Badminton Lover | Poetry Lover | Reader enthusiast</b>
+    <b>👨‍🎓 Student |🧑‍💻 Open-source Technology & Math Enthusiast |🏸 Badminton Lover | 📖 Poetry Lover && Reader enthusiast</b>
   </p>
 </div>
 
 
 ## 🌱 About Me
 
-* A student :student:
-* Serious badminton enthusiast ☕
+* A student 👨‍🎓
 * Love tossing technology/Math 💻
-* Read books;lover of poetry;like Haruki Murakami 📖
-* good at badminton :badminton:
+* Read books;lover of poetry 📖
+* good at badminton 🏸
 
 ## 🛠️ Tech Stack
 
@@ -37,9 +40,9 @@
 
 ## 🚀 Currently Learning & Working On
 
-- 🤔 Exploring new frameworks and open source ideas
-- 🛠️ Building personal website/blog with Mkdocs
-- 💡 Deeply study the interdisciplinary field of mathematics and programming
+* ☕ Learn Java backend development
+* 🛠️ Explore automated workflows for large models
+* 💡 Dive deep into the intersection of mathematics and programming
 
 ## 📫 Connect with Me
 

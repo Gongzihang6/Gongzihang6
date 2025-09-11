@@ -24,7 +24,6 @@
 <p align="center">
   <!-- 现有图标 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" style="margin: 0 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" style="margin: 0 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" style="margin: 0 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vue" style="margin: 0 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" style="margin: 0 10px;"/>
@@ -84,7 +83,7 @@
   </a>
   <!-- QQ (直接发起会话) -->
   <a href="tencent://message/?uin=601049742&Site=GitHub&Menu=yes" target="_blank">
-    <img src="https://cdn.simpleicons.org/tencentqq/EB1923" width="50" />
+    <img src="https://cdn.simpleicons.org/qq/aa96da" width="50" />
   </a>
 </p>
 

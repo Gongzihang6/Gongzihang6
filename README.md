@@ -88,4 +88,4 @@
     </tr>
 </table>
 
-![Wcowin's github activity graph](https://raw.githubusercontent.com/Gongzihang6/Gongzihang6/output/github-contribution-grid-snake.svg)
+![Gongzihang's github activity graph](https://raw.githubusercontent.com/Gongzihang6/Gongzihang6/output/github-contribution-grid-snake.svg)

@@ -22,12 +22,18 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
+  <!-- 现有图标 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" style="margin: 0 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" style="margin: 0 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" style="margin: 0 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vue" style="margin: 0 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" style="margin: 0 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" style="margin: 0 10px;"/>
+  
+  <!-- 新增的图标 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" style="margin: 0 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus" style="margin: 0 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch" style="margin: 0 10px;"/>
 </p> 
 
 ## 🚀 Currently Learning & Working On
@@ -39,33 +45,50 @@
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://x.com/ZihangGong28792_" target="_blank"><img src="https://pic3.zhimg.com/80/v2-aa11d437a377f1a0deac132eb800b306_1440w.webp" width="50" /></a>
-  <a href="https://t.me/gongzihang" target="_blank"><img src="https://pica.zhimg.com/v2-61b4731957dba61e9960436dbd06306a_1440w.jpg" width="50" /></a>
-  <a href="mailto:zihanggong24@gmail.com" target="_blank"><img src="https://pic4.zhimg.com/v2-e996df5a7696237b6f924ace7044cd97_1440w.jpg" width="50" /></a>
+  <!-- X (Twitter) -->
+  <a href="https://x.com/ZihangGong28792_" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/000000" width="50" />
+  </a>
+  <!-- Telegram -->
+  <a href="https://t.me/gongzihang" target="_blank">
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="50" />
+  </a>
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/zihanggong24/" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="50" />
+  </a>
+  <!-- Email -->
+  <a href="mailto:zihanggong24@gmail.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="50" />
+  </a>
+  <!-- Bilibili -->
+  <a href="https://space.bilibili.com/688234000?spm_id_from=333.1387.0.0" target="_blank">
+    <img src="https://cdn.simpleicons.org/bilibili/00A1F1" width="50" />
+  </a>
+  <!-- 知乎 -->
+  <a href="https://www.zhihu.com/people/qia-bu-qi-nuo-68-14" target="_blank">
+    <img src="https://cdn.simpleicons.org/zhihu/0084FF" width="50" />
+  </a>
+  <!-- CSDN -->
+  <a href="https://blog.csdn.net/weixin_57248649?spm=1000.2115.3001.10640" target="_blank">
+    <!-- CSDN 在 Simple Icons 中没有，我们找一个外部的可靠链接 -->
+    <img src="https://cdn.simpleicons.org/csdn" width="50" />
+  </a>
+  <!-- 博客园 -->
+  <a href="https://www.cnblogs.com/gzhBlogs" target="_blank">
+    <img src="https://cdn.simpleicons.org/rss/EE802F" width="50" />
+  </a>
+  <!-- 微信 (链接到二维码图片) -->
+  <a href="https://cdn.jsdelivr.net/gh/Gongzihang6/Pictures@main/Medias/%E6%88%91%E7%9A%84%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81.png" target="_blank">
+    <img src="https://cdn.simpleicons.org/wechat/07C160" width="50" />
+  </a>
+  <!-- QQ (直接发起会话) -->
+  <a href="tencent://message/?uin=601049742&Site=GitHub&Menu=yes" target="_blank">
+    <img src="https://cdn.simpleicons.org/tencentqq/EB1923" width="50" />
+  </a>
 </p>
 
-  
- <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wcowin)](https://github.com/anuraghazra/github-readme-stats)  
-[![Readme Card](https://github-readme-stats-beta-amber-44.vercel.app/api?username=Wcowin&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&locale=zh-my)](#)  -->
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wcowin)](https://github.com/anuraghazra/github-readme-stats)-->
-
-<!--
-## Connect with me
- 
-<p align="left">
-&nbsp; <a href="https://twitter.com/ZihangGong28792" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/gongzihang" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="mailto:zihanggong24@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-</p>
-
-
-<p align="left">
-&nbsp; <a href="https://twitter.com/ZihangGong28792" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/gongzihang" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="mailto:zihanggong24@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-</p>
--->
 
 ## Overview
 
@@ -74,16 +97,30 @@
          <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=My+hobby:+;I+Love+Badminton;I+Love+Books;I+Love+Program" alt="Headline;" /> 
      </div> 
 
+
  <table>
+    <!-- 这是您原来的一行三列 -->
     <tr>
-        <td >
+        <td>
             <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gongzihang6&theme=vue" ></center>
         </td>
-        <td >
+        <td>
             <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gongzihang6&theme=github&utcOffset=8" align="right" /></center>
         </td>
-        <td >
+        <td>
             <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gongzihang6&theme=vue" align="right" /></center>
+        </td>
+    </tr>
+    <!-- 新增的一行，用来放置新的统计卡片 -->
+    <tr>
+        <!-- 我们让一个单元格横跨三列 (colspan="3")，以确保居中对齐 -->
+        <td colspan="3">
+            <center>
+                <!-- 第一个新卡片：GitHub 综合统计 -->
+                <img src="https://github-readme-stats.vercel.app/api?username=Gongzihang6&show_icons=true&theme=vue" />
+                <!-- 第二个新卡片：最常用语言 -->
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gongzihang6&layout=compact&theme=vue" />
+            </center>
         </td>
     </tr>
 </table>

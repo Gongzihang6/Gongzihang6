@@ -1,0 +1,67 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200"/>
+  
+  <h1>
+    你好，我是<a href="https://gongzihang6.github.io/">gzh</a>！
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+  <p align="center">
+    <b>学生 | 开源技术与数学爱好者 | 羽毛球爱好者 | 诗歌爱好者 | 阅读爱好者</b>
+  </p>
+</div>
+
+## 🌱 关于我
+
+* 一名学生 :student:
+* 认真的羽毛球爱好者 ☕
+* 热爱折腾技术/数学 💻
+* 喜欢读书；热爱诗歌；喜欢村上春树 📖
+* 擅长羽毛球 :badminton:
+
+## 🛠️ 技术栈
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" style="margin: 0 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" style="margin: 0 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" style="margin: 0 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vue" style="margin: 0 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" style="margin: 0 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" style="margin: 0 10px;"/>
+</p> 
+
+## 🚀 当前学习与工作方向
+
+- 🤔 学习Java后端开发
+- 🛠️ 了解大模型自动化工作流
+- 💡 深入研究数学与编程的交叉领域
+
+## 📫 联系我
+
+<p align="center">
+  <a href="https://x.com/ZihangGong28792_" target="_blank"><img src="https://pic3.zhimg.com/80/v2-aa11d437a377f1a0deac132eb800b306_1440w.webp" width="50" /></a>
+  <a href="https://t.me/gongzihang" target="_blank"><img src="https://pica.zhimg.com/v2-61b4731957dba61e9960436dbd06306a_1440w.jpg" width="50" /></a>
+  <a href="https://www.instagram.com/gongzihang" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>
+  <a href="mailto:zihanggong24@gmail.com" target="_blank"><img src="https://pic4.zhimg.com/v2-e996df5a7696237b6f924ace7044cd97_1440w.jpg" width="50" /></a>
+</p>
+
+## 概览
+
+<div align=center> 
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=我的爱好：;热爱羽毛球;热爱读书;热爱编程" alt="标题;" /> 
+</div> 
+
+<table>
+    <tr>
+        <td >
+            <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gongzihang6&theme=vue" ></center>
+        </td>
+        <td >
+            <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gongzihang6&theme=github&utcOffset=8" align="right" /></center>
+        </td>
+        <td >
+            <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gongzihang6&theme=vue" align="right" /></center>
+        </td>
+    </tr>
+</table>
+
+![Gongzihang的GitHub活动图表](https://raw.githubusercontent.com/Gongzihang6/Gongzihang6/output/github-contribution-grid-snake.svg)

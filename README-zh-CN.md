@@ -1,6 +1,9 @@
+<p align="right">
+  <a href="./README.md">English</a> | <b>简体中文</b>
+</p>
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
-  <h1>你好，我是 <a href="https://gongzihang6.github.io/">龚子航 (Gong Zihang)</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+  <h1>你好，我是 <a href="https://gongzihang6.github.io/">GZH</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
   
   <h3>👨‍🎓 数学硕士 (M.Sc.) | 🔭 SLAM & 3D 计算机视觉研究员</h3>
   

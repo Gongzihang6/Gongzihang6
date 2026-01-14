@@ -71,14 +71,8 @@
 ### 📊 GitHub 统计 (Analytics)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gongzihang6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gongzihang6&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="languages graph" />
+  <img src="https://github.com/Gongzihang6/Gongzihang6/blob/main/github-metrics.svg" alt="Metrics" width="100%">
 </div>
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gongzihang6&theme=tokyonight&utcOffset=8" height="150" />
-</div>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/Gongzihang6/Gongzihang6/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>

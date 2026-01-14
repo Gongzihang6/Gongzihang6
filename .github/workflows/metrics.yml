@@ -1,42 +1,38 @@
-name: Metrics
-on:
-  # 每天 00:00 更新
-  schedule: [{cron: "0 0 * * *"}]
-  # 手动触发更新
-  workflow_dispatch:
-  # 每次 push 到主分支更新
-  push: {branches: ["master", "main"]}
-jobs:
-  github-metrics:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
+steps:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          # 你的 GitHub 用户名
           user: Gongzihang6
           template: classic
-          base: header, activity, community, repositories, metadata
+          # ---------------------------------------------------------
+          # 🎨 核心修改 1：移除 header，只保留数据模块
+          # 这样就不会出现那个巨大的名字和头像了，显得更精致
+          # ---------------------------------------------------------
+          base: activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
           
+          # 🎨 核心修改 2：增加边距，解决底部文字截断问题
+          config_padding: 8%
+
           # 🔌 插件配置
-          # 1. 语言统计 (详细版)
           plugin_languages: yes
           plugin_languages_ignored: >-
             html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
-            gnuplot
+            gnuplot, vue, javascript, typescript
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_colors: "github"
           
-          # 2. 编码习惯 (非常有意思)
+          # ---------------------------------------------------------
+          # 🔧 核心修改 3：修复 Unexpected error
+          # 将抓取事件数从 200 降为 100，避免超时
+          # 如果仍然报错，可以将 plugin_habits_facts 改为 no
+          # ---------------------------------------------------------
           plugin_habits: yes
           plugin_habits_days: 14
           plugin_habits_facts: yes
-          plugin_habits_from: 200
+          plugin_habits_from: 100
           
-          # 3.  Isometric commit calendar (3D 提交日历)
+          # 3D 提交日历
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year

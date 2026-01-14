@@ -1,3 +1,6 @@
+<p align="right">
+  <b>English</b> | <a href="./README-zh.md">简体中文</a>
+</p>
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
   <h1>Hi there, I'm <a href="https://gongzihang6.github.io/">Gong Zihang</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>

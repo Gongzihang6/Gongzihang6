@@ -41,6 +41,31 @@ I am currently a **Master's Student in Mathematics**, passionate about applying 
 
 ---
 
+### 🗺️ Learning Roadmap & Milestones
+
+I track my learning progress here to keep myself motivated. 
+*Legends: ✅ Completed | 🔄 In Progress | 📅 Planned*
+
+#### 📚 Theoretical Foundation & Books
+- [x] **Visual SLAM 14 Lectures** (视觉SLAM十四讲) - *The Bible of SLAM entry.*
+- [ ] **State Estimation for Robotics** (Timothy D. Barfoot) - *Diving into the math behind estimation.*
+- [ ] 🔄**SLAM Techniques in Autonomous Driving** (高翔-自动驾驶与机器人中的SLAM技术) - *From Theory to Practice.*
+- [ ] **Multiple View Geometry in Computer Vision** (MVG) - *Classic Reference.*
+
+#### 🔭 SLAM Systems & Code Analysis
+- [ ] 🔄**ORB-SLAM2** - *Sparse feature-based SLAM. Analyzing tracking & local mapping threads.*
+- [ ] **VINS-Mono** - *Tightly-coupled VIO. Studying the sliding window optimization.*
+- [ ] **LOAM / A-LOAM** - *LiDAR Odometry basics.*
+
+#### 🧠 3D Deep Learning & Point Clouds (SOTA Models)
+- [x] **Point Transformer V1 / V2 / V3** - *Attention mechanisms on point clouds.*
+- [x] **OctFormer** - *Octree-based Transformers.*
+- [x] **Swin3D** - *Hierarchical Transformers for 3D vision.*
+- [x] **PointNet++ / DGCNN** - *Revisiting the classics for comparison.*
+
+---
+
+
 ### 📊 GitHub Analytics
 
 <div align="center">

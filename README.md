@@ -1,5 +1,5 @@
 <p align="right">
-  <b>English</b> | <a href="./README-zh.md">简体中文</a>
+  <b>English</b> | <a href="./README-zh-CN.md">简体中文</a>
 </p>
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />

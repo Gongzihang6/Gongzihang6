@@ -74,7 +74,9 @@ I track my learning progress here to keep myself motivated.
 <div align="center">
   <img src="https://github.com/Gongzihang6/Gongzihang6/blob/main/github-metrics.svg" alt="Metrics" width="100%">
 </div>
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Gongzihang6/Gongzihang6/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
 ---
 
 ### 📫 Connect with Me

@@ -13,39 +13,43 @@ jobs:
       contents: write
     steps:
       - uses: lowlighter/metrics@latest
-        with:
+      with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Gongzihang6
           template: classic
+          
           # ---------------------------------------------------------
-          # 🎨 核心修改 1：移除 header，只保留数据模块
-          # 这样就不会出现那个巨大的名字和头像了，显得更精致
+          # 🎨 布局美化
           # ---------------------------------------------------------
           base: activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
-          
-          # 🎨 核心修改 2：增加边距，解决底部文字截断问题
-          config_padding: 8%
-
-          # 🔌 插件配置
-          plugin_languages: yes
-          plugin_languages_ignored: >-
-            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
-            gnuplot, vue, javascript, typescript
-          plugin_languages_limit: 8
-          plugin_languages_sections: most-used
-          plugin_languages_colors: "github"
+          config_padding: 0, 8%   # 优化边距，左右宽一点，上下紧凑点
+          config_display: large   # 🌟【关键】开启高清大图模式，图表会更清晰锐利
           
           # ---------------------------------------------------------
-          # 🔧 核心修改 3：修复 Unexpected error
-          # 将抓取事件数从 200 降为 100，避免超时
-          # 如果仍然报错，可以将 plugin_habits_facts 改为 no
+          # 🐍 习惯插件 (修复版)
           # ---------------------------------------------------------
           plugin_habits: yes
           plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 100
+          plugin_habits_from: 200      # 恢复到 200 以保证数据量
+          plugin_habits_facts: no      # 🛑【核心修复】关闭文字事实，彻底解决 Unexpected Error
+          plugin_habits_charts: yes    # ✅【必须开启】强制显示环形图
+          plugin_habits_trim: yes      # 自动修剪图表空白，更美观
+
+          # ---------------------------------------------------------
+          # 💻 语言插件 (配色优化)
+          # ---------------------------------------------------------
+          plugin_languages: yes
+          plugin_languages_ignored: >-
+            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
+            gnuplot, vue, javascript, typescript, jupyter notebook
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_colors: "github"
+          plugin_languages_details: lines, bytes-size # 增加细节显示
           
-          # 3D 提交日历
+          # ---------------------------------------------------------
+          # 📅 3D 日历
+          # ---------------------------------------------------------
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year

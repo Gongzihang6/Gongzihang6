@@ -11,34 +11,28 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-      with:
+    steps: # 注意：steps 应该和上面的 permissions 对齐
+      - uses: lowlighter/metrics@latest # 破折号前面保留 2 个空格，对齐 steps 的 s
+        with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Gongzihang6
           template: classic
           
-          # ---------------------------------------------------------
-          # 🎨 布局美化
-          # ---------------------------------------------------------
+          # 布局与美化
           base: activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
-          config_padding: 0, 8%   # 优化边距，左右宽一点，上下紧凑点
-          config_display: large   # 🌟【关键】开启高清大图模式，图表会更清晰锐利
+          config_padding: 0, 8%
+          config_display: large
           
-          # ---------------------------------------------------------
-          # 🐍 习惯插件 (修复版)
-          # ---------------------------------------------------------
+          # 习惯插件修复（关闭 facts 避开 Unexpected error）
           plugin_habits: yes
           plugin_habits_days: 14
-          plugin_habits_from: 200      # 恢复到 200 以保证数据量
-          plugin_habits_facts: no      # 🛑【核心修复】关闭文字事实，彻底解决 Unexpected Error
-          plugin_habits_charts: yes    # ✅【必须开启】强制显示环形图
-          plugin_habits_trim: yes      # 自动修剪图表空白，更美观
+          plugin_habits_from: 200
+          plugin_habits_facts: no
+          plugin_habits_charts: yes
+          plugin_habits_trim: yes
 
-          # ---------------------------------------------------------
-          # 💻 语言插件 (配色优化)
-          # ---------------------------------------------------------
+          # 语言插件
           plugin_languages: yes
           plugin_languages_ignored: >-
             html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
@@ -46,10 +40,7 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_colors: "github"
-          plugin_languages_details: lines, bytes-size # 增加细节显示
           
-          # ---------------------------------------------------------
-          # 📅 3D 日历
-          # ---------------------------------------------------------
+          # 3D 日历
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
